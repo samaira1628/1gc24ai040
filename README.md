@@ -1,4 +1,4 @@
-Title:Ms
+Title: Ms
 Full Name: Samaira Meenaz
 USN: 1GC24AI040
 Semester: Third
