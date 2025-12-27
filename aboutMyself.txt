@@ -6,6 +6,5 @@ Section: C
 Branch:Artificial intelligence engineering
 Year of Admission:2025-26
 SSLC:New millennium high school
-PUC:Ghouisa PU College
-College:Ghousia college of engineering 
+PUC:Ghouisa PU College 
 Degree:B.E 2nd year artificial engineering
